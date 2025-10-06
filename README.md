@@ -146,7 +146,7 @@ For questions or collaboration opportunities:
 
 **Team GreenSpark**  
 📍 Birzeit University — Palestine  
-📧 [info@greenspark-project.com](mailto:info@greenspark-project.com)
+📧 [info@greenspark-project.com](mailto:lamarimawi5@gmail.com)
 
 ---
 
