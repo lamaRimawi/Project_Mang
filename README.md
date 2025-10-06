@@ -1,4 +1,4 @@
-Sure ✅ — here’s the **ready-to-copy Markdown code** you can paste directly into your new GitHub repo’s `README.md` file:
+
 
 ---
 
@@ -125,23 +125,7 @@ This project represents a cornerstone in sustainable development — combining *
 
 ```
 
-GreenSparkProject/
-├── GreenSpark_Project_Proposal.tex
-├── cover.png
-├── green.png
-├── images/
-│   ├── a.png
-│   ├── f.png
-│   ├── r.png
-│   ├── c.png
-│   ├── e.png
-│   ├── b.png
-│   └── ...
-├── README.md
-└── output/
-└── GreenSpark_Project_Proposal.pdf
 
-```
 
 ---
 
